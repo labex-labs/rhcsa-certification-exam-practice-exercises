@@ -22,7 +22,7 @@ LabEx offers simulated RHCSA practice exercises and an accompanying online envir
 4. Instant feedback: Each experiment has an automatic validation script, allowing you to immediately know if you’ve completed the task correctly.
 5. AI assistance: LabEx’s AI assistant, Labby, can provide help when you encounter difficulties, which is very useful in the actual learning process.
 
-## Scenarios
+## Exercises
 
 |   Index | Name                                                     | Difficulty   | Practice                                                                                                                                                 |
 |---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
