@@ -13,14 +13,14 @@ This course provides hands-on practice exercises to prepare for the Red Hat Cert
 
 |   Index | Name                                    | Difficulty   | Practice                                                                   |
 |---------|-----------------------------------------|--------------|----------------------------------------------------------------------------|
-|       1 | 🎯 Locate Setuid Files                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/389292'>Start Challenge</a> |
-|       2 | 🎯 Manage Logs and Archives             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/389293'>Start Challenge</a> |
-|       3 | 🎯 Log in and Switch Users              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/389335'>Start Challenge</a> |
-|       4 | 🎯 Create and Extract Tar Archives      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/389290'>Start Challenge</a> |
-|       5 | 🎯 Implement Hard Links in Linux        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/389291'>Start Challenge</a> |
-|       6 | 🎯 Create and Manipulate Symbolic Links | ★☆☆          | <a target='_blank' href='https://labex.io/labs/389312'>Start Challenge</a> |
-|       7 | 🎯 Manage File Permissions              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/389331'>Start Challenge</a> |
-|       8 | 🎯 Process Arguments in Bash Scripts    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/389294'>Start Challenge</a> |
+|      01 | 🎯 Locate Setuid Files                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/389292'>Start Challenge</a> |
+|      02 | 🎯 Manage Logs and Archives             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/389293'>Start Challenge</a> |
+|      03 | 🎯 Log in and Switch Users              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/389335'>Start Challenge</a> |
+|      04 | 🎯 Create and Extract Tar Archives      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/389290'>Start Challenge</a> |
+|      05 | 🎯 Implement Hard Links in Linux        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/389291'>Start Challenge</a> |
+|      06 | 🎯 Create and Manipulate Symbolic Links | ★☆☆          | <a target='_blank' href='https://labex.io/labs/389312'>Start Challenge</a> |
+|      07 | 🎯 Manage File Permissions              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/389331'>Start Challenge</a> |
+|      08 | 🎯 Process Arguments in Bash Scripts    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/389294'>Start Challenge</a> |
 
 ## More
 
