@@ -14,7 +14,7 @@ This course provides hands-on practice exercises to prepare for the Red Hat Cert
 
 LabEx offers simulated RHCSA practice exercises and an accompanying online environment.
 
-![1_O3JhkmGyJL_YXzciNNbpiw@2x](https://github.com/user-attachments/assets/ca2ec5c0-5382-4814-b918-1ecba6c6b7c9)
+![1_O3JhkmGyJL_YXzciNNbpiw@2x](https://github.com/user-attachments/assets/d5a52f96-76ff-41aa-b40f-8c66e02ed1cf)
 
 1. Practice-oriented: LabEx adopts a “learn by doing” approach, perfectly matching the RHCSA exam’s practical orientation.
 2. Simulated environment: LabEx uses Red Hat Universal Base Image 9 (UBI9) to simulate the exam environment, closely resembling the actual test setting.
