@@ -1,5 +1,7 @@
 # RHCSA Certification Exam Practice Exercises
 
+The RHCSA is a crucial certification offered by Red Hat, designed to verify IT professional’s ability to perform core system administration tasks in a Red Hat Enterprise Linux environment. This certification is obtained by passing the Red Hat Certified System Administrator (RHCSA) Exam (EX200).
+
 ![RHCSA Certification Exam Practice Exercises](https://cover-creator.appbot.io/rhcsa-certification-exam-practice-exercises.png)
 
 This course provides hands-on practice exercises to prepare for the Red Hat Certified System Administrator (RHCSA) exam. Through a series of challenging labs, you'll develop and reinforce the essential skills required for Linux system administration and RHCSA certification.
@@ -8,6 +10,17 @@ This course provides hands-on practice exercises to prepare for the Red Hat Cert
 ![RHCSA](https://img.shields.io/badge/RHCSA-whitesmoke?style=for-the-badge&logo=rhcsa)
 ![Shell](https://img.shields.io/badge/Shell-whitesmoke?style=for-the-badge&logo=shell)
 
+## Environment
+
+LabEx offers simulated RHCSA practice exercises and an accompanying online environment.
+
+![1_O3JhkmGyJL_YXzciNNbpiw@2x](https://github.com/user-attachments/assets/d5a52f96-76ff-41aa-b40f-8c66e02ed1cf)
+
+1. Practice-oriented: LabEx adopts a “learn by doing” approach, perfectly matching the RHCSA exam’s practical orientation.
+2. Simulated environment: LabEx uses Red Hat Universal Base Image 9 (UBI9) to simulate the exam environment, closely resembling the actual test setting.
+3. Rich experiments: LabEx offers 63 experiments directly related to the RHCSA exam, covering all major exam areas.
+4. Instant feedback: Each experiment has an automatic validation script, allowing you to immediately know if you’ve completed the task correctly.
+5. AI assistance: LabEx’s AI assistant, Labby, can provide help when you encounter difficulties, which is very useful in the actual learning process.
 
 ## Scenarios
 
