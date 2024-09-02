@@ -4,7 +4,7 @@ The RHCSA is a crucial certification offered by Red Hat, designed to verify IT p
 
 [![RHCSA Certification Exam Practice Exercises](https://cover-creator.appbot.io/rhcsa-certification-exam-practice-exercises.png)](https://labex.io/courses/rhcsa-certification-exam-practice-exercises)
 
-[![Linux](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/rhcsa-certification-exam-practice-exercises)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/rhcsa-certification-exam-practice-exercises)
 
 This course provides hands-on practice exercises to prepare for the Red Hat Certified System Administrator (RHCSA) exam. Through a series of challenging labs, you'll develop and reinforce the essential skills required for Linux system administration and RHCSA certification.
 
