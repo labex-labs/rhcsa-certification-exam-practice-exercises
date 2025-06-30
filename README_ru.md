@@ -12,7 +12,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 ![RHCSA](https://img.shields.io/badge/RHCSA-whitesmoke?style=for-the-badge&logo=rhcsa)
-![Shell](https://img.shields.io/badge/Shell-whitesmoke?style=for-the-badge&logo=shell)
+![RHEL](https://img.shields.io/badge/RHEL-whitesmoke?style=for-the-badge&logo=rhel)
 
 
 ## Среда
@@ -25,81 +25,81 @@ LabEx - это интерактивная практическая обучаю�
 - Интерактивные онлайн-среды в браузере с автоматизированными пошаговыми проверками.
 - Структурированная организация контента с системой на основе Дерева Навыков.
 - Растущий учебный ресурс из 30 Деревьев Навыков и более 6,000 Лабораторий.
-- ИИ-ассистент обучения Labby, построенный на ChatGPT, обеспечивающий разговорный опыт обучения.
+- Ассистент обучения Labby, построенный на последних моделях ИИ, обеспечивающий разговорный опыт обучения.
 
 Узнать больше о [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
 ## Упражнения
 
-|   Индекс | Название                                                 | Сложность   | Практика                                                                                                                       |
-|----------|----------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 🎯 Поиск файлов с установленным флагом setuid            | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-locate-setuid-files-416103'>Начать Испытание</a>                  |
-|       02 | 🎯 Управление журналами и архивами                       | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-manage-logs-and-archives-416106'>Начать Испытание</a>             |
-|       03 | 🎯 Вход в систему и переключение между пользователями    | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-log-in-and-switch-users-416104'>Начать Испытание</a>              |
-|       04 | 🎯 Создание и извлечение tar-архивов                     | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-create-and-extract-tar-archives-416100'>Начать Испытание</a>      |
-|       05 | 🎯 Реализация жёстких ссылок в Linux                     | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-implement-hard-links-in-linux-416102'>Начать Испытание</a>        |
-|       06 | 🎯 Создание и управление символическими ссылками         | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-create-and-manipulate-symbolic-links-416101'>Начать Испытание</a> |
-|       07 | 🎯 Управление правами доступа к файлам                   | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-manage-file-permissions-416105'>Начать Испытание</a>              |
-|       08 | 🎯 Обработка аргументов в bash-скриптах                  | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/linux-process-arguments-in-bash-scripts-416107'>Начать Испытание</a>    |
-|       09 | 🎯 Create a Conditional Shell Script                     | Начинающий  | Скоро Будет                                                                                                                    |
-|       10 | 🎯 Create Shell Script With Inputs                       | Начинающий  | Скоро Будет                                                                                                                    |
-|       11 | 🎯 Create Shell Scripts to Process Command Output        | Начинающий  | Скоро Будет                                                                                                                    |
-|       12 | 🎯 Create Shell Scripts With Loops                       | Начинающий  | Скоро Будет                                                                                                                    |
-|       13 | 🎯 Adjust Process Scheduling                             | Начинающий  | Скоро Будет                                                                                                                    |
-|       14 | 🎯 Boot, Reboot, and Shutdown a System                   | Начинающий  | Скоро Будет                                                                                                                    |
-|       15 | 🎯 Boot Systems Into Different Targets Manually          | Начинающий  | Скоро Будет                                                                                                                    |
-|       16 | 🎯 Interrupt the Boot Process                            | Начинающий  | Скоро Будет                                                                                                                    |
-|       17 | 🎯 Locate and Interpret System Log Files                 | Начинающий  | Скоро Будет                                                                                                                    |
-|       18 | 🎯 Manage Tuning Profiles                                | Начинающий  | Скоро Будет                                                                                                                    |
-|       19 | 🎯 Preserve System Journals                              | Начинающий  | Скоро Будет                                                                                                                    |
-|       20 | 🎯 Start, Stop, and Check the Status of Network Servi... | Начинающий  | Скоро Будет                                                                                                                    |
-|       21 | 🎯 Transfer Files Securely Between Systems               | Начинающий  | Скоро Будет                                                                                                                    |
-|       22 | 🎯 Add New Partitions and Logical Volumes                | Начинающий  | Скоро Будет                                                                                                                    |
-|       23 | 🎯 Assign Physical Volumes to Volume Groups              | Начинающий  | Скоро Будет                                                                                                                    |
-|       24 | 🎯 Configure File Systems by UUID or Label               | Начинающий  | Скоро Будет                                                                                                                    |
-|       25 | 🎯 Create and Delete Logical Volumes                     | Начинающий  | Скоро Будет                                                                                                                    |
-|       26 | 🎯 Create and Remove Physical Volumes                    | Начинающий  | Скоро Будет                                                                                                                    |
-|       27 | 🎯 List, Create, and Delete Partitions on MBR and GPT... | Начинающий  | Скоро Будет                                                                                                                    |
-|       28 | 🎯 Configure Autofs                                      | Начинающий  | Скоро Будет                                                                                                                    |
-|       29 | 🎯 Create and Configure File Systems                     | Начинающий  | Скоро Будет                                                                                                                    |
-|       30 | 🎯 Create Set-Gid Directories for Collaboration          | Начинающий  | Скоро Будет                                                                                                                    |
-|       31 | 🎯 Diagnose and Correct File Permission Problems         | Начинающий  | Скоро Будет                                                                                                                    |
-|       32 | 🎯 Extend Existing Logical Volumes                       | Начинающий  | Скоро Будет                                                                                                                    |
-|       33 | 🎯 Mount and Unmount Network File Systems Using NFS      | Начинающий  | Скоро Будет                                                                                                                    |
-|       34 | 🎯 Configure System to Boot Into a Specific Target Au... | Начинающий  | Скоро Будет                                                                                                                    |
-|       35 | 🎯 Configure Time Service Clients                        | Начинающий  | Скоро Будет                                                                                                                    |
-|       36 | 🎯 Install and Update Software Packages                  | Начинающий  | Скоро Будет                                                                                                                    |
-|       37 | 🎯 Modify the System Bootloader                          | Начинающий  | Скоро Будет                                                                                                                    |
-|       38 | 🎯 Schedule Tasks Using at and Cron                      | Начинающий  | Скоро Будет                                                                                                                    |
-|       39 | 🎯 Start and Configure Services                          | Начинающий  | Скоро Будет                                                                                                                    |
-|       40 | 🎯 Configure Hostname Resolution                         | Начинающий  | Скоро Будет                                                                                                                    |
-|       41 | 🎯 Configure IPv4 and IPv6 Addresses                     | Начинающий  | Скоро Будет                                                                                                                    |
-|       42 | 🎯 Configure Network Services to Start Automatically ... | Начинающий  | Скоро Будет                                                                                                                    |
-|       43 | 🎯 Restrict Network Access Using Firewall-CMD/Firewal... | Начинающий  | Скоро Будет                                                                                                                    |
-|       44 | 🎯 Change Passwords and Adjust Password Aging for Loc... | Начинающий  | Скоро Будет                                                                                                                    |
-|       45 | 🎯 Configure Superuser Access                            | Начинающий  | Скоро Будет                                                                                                                    |
-|       46 | 🎯 Create and Manage Local Groups                        | Начинающий  | Скоро Будет                                                                                                                    |
-|       47 | 🎯 Create and Manage Local User Accounts                 | Начинающий  | Скоро Будет                                                                                                                    |
-|       48 | 🎯 Configure Firewall Using Firewall-CMD/Firewalld       | Начинающий  | Скоро Будет                                                                                                                    |
-|       49 | 🎯 Configure Key-Based Authentication for SSH            | Начинающий  | Скоро Будет                                                                                                                    |
-|       50 | 🎯 Diagnose and Address SELinux Policy Violations        | Начинающий  | Скоро Будет                                                                                                                    |
-|       51 | 🎯 Identify SELinux File and Process Context             | Начинающий  | Скоро Будет                                                                                                                    |
-|       52 | 🎯 Manage Default File Permissions                       | Начинающий  | Скоро Будет                                                                                                                    |
-|       53 | 🎯 Manage SELinux Port Labels                            | Начинающий  | Скоро Будет                                                                                                                    |
-|       54 | 🎯 Modify SELinux Boolean Settings                       | Начинающий  | Скоро Будет                                                                                                                    |
-|       55 | 🎯 Restore Default File Contexts                         | Начинающий  | Скоро Будет                                                                                                                    |
-|       56 | 🎯 Set SELinux Mode                                      | Начинающий  | Скоро Будет                                                                                                                    |
-|       57 | 🎯 Attach Persistent Storage to a Container              | Начинающий  | Скоро Будет                                                                                                                    |
-|       58 | 🎯 Configure a Container to Start Automatically as a ... | Начинающий  | Скоро Будет                                                                                                                    |
-|       59 | 🎯 Find and Retrieve Container Images From a Remote R... | Начинающий  | Скоро Будет                                                                                                                    |
-|       60 | 🎯 Inspect Container Images                              | Начинающий  | Скоро Будет                                                                                                                    |
-|       61 | 🎯 Manage Containers: Basic Operations                   | Начинающий  | Скоро Будет                                                                                                                    |
-|       62 | 🎯 Manage Containers With Podman and Skopeo              | Начинающий  | Скоро Будет                                                                                                                    |
-|       63 | 🎯 Run a Service Inside a Container                      | Начинающий  | Скоро Будет                                                                                                                    |
+|   Индекс | Название                                                 | Сложность   | Практика                                                                                                                                |
+|----------|----------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 🎯 Поиск файлов с установленным флагом setuid            | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-locate-setuid-files-588259'>Начать Испытание</a>                            |
+|       02 | 🎯 Управление журналами и архивами                       | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-manage-logs-and-archives-588265'>Начать Испытание</a>                       |
+|       03 | 🎯 Вход в систему и переключение между пользователями    | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-log-in-and-switch-users-588260'>Начать Испытание</a>                        |
+|       04 | 🎯 Создание и извлечение tar-архивов                     | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-create-and-extract-tar-archives-588239'>Начать Испытание</a>                |
+|       05 | 🎯 Реализация жёстких ссылок в Linux                     | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-implement-hard-links-in-linux-588253'>Начать Испытание</a>                  |
+|       06 | 🎯 Создание и управление символическими ссылками         | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-create-and-manipulate-symbolic-links-588242'>Начать Испытание</a>           |
+|       07 | 🎯 Управление правами доступа к файлам                   | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-manage-file-permissions-588264'>Начать Испытание</a>                        |
+|       08 | 🎯 Обработка аргументов в bash-скриптах                  | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-process-arguments-in-bash-scripts-588272'>Начать Испытание</a>              |
+|       09 | 🎯 Создание условного скрипта оболочки                   | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/rhel-create-a-conditional-shell-script-588236'>Начать Испытание</a>                   |
+|       10 | 🎯 Создание Shell-скрипта с входными данными             | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-create-shell-script-with-inputs-588245'>Начать Испытание</a>                |
+|       11 | 🎯 Создание скриптов оболочки для обработки вывода ко... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-create-shell-scripts-to-process-command-output-588246'>Начать Испытание</a> |
+|       12 | 🎯 Создание скриптов оболочки с циклами                  | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/rhel-create-shell-scripts-with-loops-588247'>Начать Испытание</a>                |
+|       13 | 🎯 Настройка планирования процессов                      | Начинающий  | Скоро Будет                                                                                                                             |
+|       14 | 🎯 Загрузка, перезагрузка и выключение системы           | Начинающий  | Скоро Будет                                                                                                                             |
+|       15 | 🎯 Ручная загрузка систем Linux в различные режимы       | Начинающий  | Скоро Будет                                                                                                                             |
+|       16 | 🎯 Прерывание процесса загрузки                          | Начинающий  | Скоро Будет                                                                                                                             |
+|       17 | 🎯 Поиск и интерпретация системных журналов              | Начинающий  | Скоро Будет                                                                                                                             |
+|       18 | 🎯 Управление профилями настройки                        | Начинающий  | Скоро Будет                                                                                                                             |
+|       19 | 🎯 Сохранение системных журналов                         | Начинающий  | Скоро Будет                                                                                                                             |
+|       20 | 🎯 Запуск, остановка и проверка статуса сетевых служб    | Начинающий  | Скоро Будет                                                                                                                             |
+|       21 | 🎯 Безопасная передача файлов между системами            | Начинающий  | Скоро Будет                                                                                                                             |
+|       22 | 🎯 Добавление новых разделов и логических томов          | Начинающий  | Скоро Будет                                                                                                                             |
+|       23 | 🎯 Назначение физических томов группам томов             | Начинающий  | Скоро Будет                                                                                                                             |
+|       24 | 🎯 Настройка файловых систем по UUID или метке           | Начинающий  | Скоро Будет                                                                                                                             |
+|       25 | 🎯 Создание и удаление логических томов                  | Начинающий  | Скоро Будет                                                                                                                             |
+|       26 | 🎯 Создание и удаление физических томов                  | Начинающий  | Скоро Будет                                                                                                                             |
+|       27 | 🎯 Перечисление, создание и удаление разделов на диск... | Начинающий  | Скоро Будет                                                                                                                             |
+|       28 | 🎯 Настройка Autofs                                      | Начинающий  | Скоро Будет                                                                                                                             |
+|       29 | 🎯 Создание и настройка файловых систем                  | Начинающий  | Скоро Будет                                                                                                                             |
+|       30 | 🎯 Создание каталогов с установленным битом GID для с... | Начинающий  | Скоро Будет                                                                                                                             |
+|       31 | 🎯 Диагностика и исправление проблем с правами доступ... | Начинающий  | Скоро Будет                                                                                                                             |
+|       32 | 🎯 Расширение существующих логических томов              | Начинающий  | Скоро Будет                                                                                                                             |
+|       33 | 🎯 Монтирование и размонтирование сетевых файловых си... | Начинающий  | Скоро Будет                                                                                                                             |
+|       34 | 🎯 Настройка автоматического запуска системы в опреде... | Начинающий  | Скоро Будет                                                                                                                             |
+|       35 | 🎯 Настройка клиентов службы времени                     | Начинающий  | Скоро Будет                                                                                                                             |
+|       36 | 🎯 Установка и обновление программных пакетов            | Начинающий  | Скоро Будет                                                                                                                             |
+|       37 | 🎯 Изменение загрузчика системы                          | Начинающий  | Скоро Будет                                                                                                                             |
+|       38 | 🎯 Планирование задач с помощью at и cron                | Начинающий  | Скоро Будет                                                                                                                             |
+|       39 | 🎯 Запуск и настройка служб                              | Начинающий  | Скоро Будет                                                                                                                             |
+|       40 | 🎯 Настройка разрешения имен хостов                      | Начинающий  | Скоро Будет                                                                                                                             |
+|       41 | 🎯 Настройка IPv4 и IPv6 адресов                         | Начинающий  | Скоро Будет                                                                                                                             |
+|       42 | 🎯 Настройка сетевых служб для автоматического запуск... | Начинающий  | Скоро Будет                                                                                                                             |
+|       43 | 🎯 Ограничение сетевого доступа с помощью firewall-cm... | Начинающий  | Скоро Будет                                                                                                                             |
+|       44 | 🎯 Изменение паролей и настройка срока действия парол... | Начинающий  | Скоро Будет                                                                                                                             |
+|       45 | 🎯 Настройка доступа суперпользователя                   | Начинающий  | Скоро Будет                                                                                                                             |
+|       46 | 🎯 Создание и управление локальными группами             | Начинающий  | Скоро Будет                                                                                                                             |
+|       47 | 🎯 Создание и управление локальными учетными записями... | Начинающий  | Скоро Будет                                                                                                                             |
+|       48 | 🎯 Настройка брандмауэра с помощью firewall-cmd/firew... | Начинающий  | Скоро Будет                                                                                                                             |
+|       49 | 🎯 Настройка аутентификации по ключам для SSH            | Начинающий  | Скоро Будет                                                                                                                             |
+|       50 | 🎯 Диагностика и устранение нарушений политики SELinu... | Начинающий  | Скоро Будет                                                                                                                             |
+|       51 | 🎯 Определение контекста SELinux для файлов и процесс... | Начинающий  | Скоро Будет                                                                                                                             |
+|       52 | 🎯 Управление правами доступа к файлам по умолчанию      | Начинающий  | Скоро Будет                                                                                                                             |
+|       53 | 🎯 Управление метками портов SELinux                     | Начинающий  | Скоро Будет                                                                                                                             |
+|       54 | 🎯 Изменение параметров SELinux Boolean                  | Начинающий  | Скоро Будет                                                                                                                             |
+|       55 | 🎯 Восстановление контекстов файлов по умолчанию         | Начинающий  | Скоро Будет                                                                                                                             |
+|       56 | 🎯 Установка режима SELinux                              | Начинающий  | Скоро Будет                                                                                                                             |
+|       57 | 🎯 Подключение постоянного хранилища к контейнеру        | Начинающий  | Скоро Будет                                                                                                                             |
+|       58 | 🎯 Настройка контейнера для автоматического запуска к... | Начинающий  | Скоро Будет                                                                                                                             |
+|       59 | 🎯 Поиск и получение образов контейнеров из удалённог... | Начинающий  | Скоро Будет                                                                                                                             |
+|       60 | 🎯 Проверка образов контейнеров                          | Начинающий  | Скоро Будет                                                                                                                             |
+|       61 | 🎯 Управление контейнерами: основные операции            | Начинающий  | Скоро Будет                                                                                                                             |
+|       62 | 🎯 Управление контейнерами с помощью Podman и Skopeo     | Начинающий  | Скоро Будет                                                                                                                             |
+|       63 | 🎯 Запуск сервиса внутри контейнера                      | Начинающий  | Скоро Будет                                                                                                                             |
 
 ## Больше
 
-- 🔗 [ Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [ Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [ Бесплатные туториалы](https://github.com/labex-labs/linux-free-tutorials)
+- 🔗 [Red Hat Enterprise Linux Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Red Hat Enterprise Linux Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Red Hat Enterprise Linux Бесплатные туториалы](https://github.com/labex-labs/rhel-free-tutorials)
 
