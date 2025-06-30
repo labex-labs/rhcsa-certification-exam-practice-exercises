@@ -12,7 +12,7 @@ Dieser Kurs bietet praktische Übungen, um sich auf die Red Hat Certified System
 
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 ![RHCSA](https://img.shields.io/badge/RHCSA-whitesmoke?style=for-the-badge&logo=rhcsa)
-![Shell](https://img.shields.io/badge/Shell-whitesmoke?style=for-the-badge&logo=shell)
+![RHEL](https://img.shields.io/badge/RHEL-whitesmoke?style=for-the-badge&logo=rhel)
 
 
 ## Umgebung
@@ -25,81 +25,81 @@ LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Tec
 - Interaktive Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen.
 - Eine strukturierte Inhaltsorganisation mit dem Skill-Tree-basierten System.
 - Eine wachsende Lernressource von 30 Skill Trees und über 6.000 Laboren.
-- Der KI-Lernassistent Labby, aufgebaut auf ChatGPT, bietet eine konversationelle Lernerfahrung.
+- Der Lernassistent Labby, aufgebaut auf den neuesten KI-Modellen, bietet eine konversationelle Lernerfahrung.
 
 Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
 ## Übungen
 
-|   Index | Name                                                     | Schwierigkeit   | Übung                                                                                                                           |
-|---------|----------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 🎯 Setuid-Dateien suchen                                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-locate-setuid-files-416103'>Challenge Starten</a>                  |
-|      02 | 🎯 Protokolle (Logs) und Archive verwalten               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-manage-logs-and-archives-416106'>Challenge Starten</a>             |
-|      03 | 🎯 Anmelden und Benutzer wechseln                        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-log-in-and-switch-users-416104'>Challenge Starten</a>              |
-|      04 | 🎯 Erstellen und Extrahieren von Tar-Archiven            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-create-and-extract-tar-archives-416100'>Challenge Starten</a>      |
-|      05 | 🎯 Festplattenverknüpfungen in Linux implementieren      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-implement-hard-links-in-linux-416102'>Challenge Starten</a>        |
-|      06 | 🎯 Symbolische Links erstellen und manipulieren          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-create-and-manipulate-symbolic-links-416101'>Challenge Starten</a> |
-|      07 | 🎯 Dateiberechtigungen verwalten                         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-manage-file-permissions-416105'>Challenge Starten</a>              |
-|      08 | 🎯 Verarbeiten von Argumenten in Bash-Skripten           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-process-arguments-in-bash-scripts-416107'>Challenge Starten</a>    |
-|      09 | 🎯 Create a Conditional Shell Script                     | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      10 | 🎯 Create Shell Script With Inputs                       | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      11 | 🎯 Create Shell Scripts to Process Command Output        | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      12 | 🎯 Create Shell Scripts With Loops                       | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      13 | 🎯 Adjust Process Scheduling                             | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      14 | 🎯 Boot, Reboot, and Shutdown a System                   | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      15 | 🎯 Boot Systems Into Different Targets Manually          | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      16 | 🎯 Interrupt the Boot Process                            | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      17 | 🎯 Locate and Interpret System Log Files                 | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      18 | 🎯 Manage Tuning Profiles                                | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      19 | 🎯 Preserve System Journals                              | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      20 | 🎯 Start, Stop, and Check the Status of Network Servi... | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      21 | 🎯 Transfer Files Securely Between Systems               | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      22 | 🎯 Add New Partitions and Logical Volumes                | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      23 | 🎯 Assign Physical Volumes to Volume Groups              | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      24 | 🎯 Configure File Systems by UUID or Label               | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      25 | 🎯 Create and Delete Logical Volumes                     | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      26 | 🎯 Create and Remove Physical Volumes                    | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      27 | 🎯 List, Create, and Delete Partitions on MBR and GPT... | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      28 | 🎯 Configure Autofs                                      | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      29 | 🎯 Create and Configure File Systems                     | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      30 | 🎯 Create Set-Gid Directories for Collaboration          | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      31 | 🎯 Diagnose and Correct File Permission Problems         | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      32 | 🎯 Extend Existing Logical Volumes                       | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      33 | 🎯 Mount and Unmount Network File Systems Using NFS      | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      34 | 🎯 Configure System to Boot Into a Specific Target Au... | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      35 | 🎯 Configure Time Service Clients                        | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      36 | 🎯 Install and Update Software Packages                  | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      37 | 🎯 Modify the System Bootloader                          | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      38 | 🎯 Schedule Tasks Using at and Cron                      | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      39 | 🎯 Start and Configure Services                          | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      40 | 🎯 Configure Hostname Resolution                         | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      41 | 🎯 Configure IPv4 and IPv6 Addresses                     | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      42 | 🎯 Configure Network Services to Start Automatically ... | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      43 | 🎯 Restrict Network Access Using Firewall-CMD/Firewal... | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      44 | 🎯 Change Passwords and Adjust Password Aging for Loc... | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      45 | 🎯 Configure Superuser Access                            | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      46 | 🎯 Create and Manage Local Groups                        | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      47 | 🎯 Create and Manage Local User Accounts                 | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      48 | 🎯 Configure Firewall Using Firewall-CMD/Firewalld       | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      49 | 🎯 Configure Key-Based Authentication for SSH            | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      50 | 🎯 Diagnose and Address SELinux Policy Violations        | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      51 | 🎯 Identify SELinux File and Process Context             | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      52 | 🎯 Manage Default File Permissions                       | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      53 | 🎯 Manage SELinux Port Labels                            | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      54 | 🎯 Modify SELinux Boolean Settings                       | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      55 | 🎯 Restore Default File Contexts                         | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      56 | 🎯 Set SELinux Mode                                      | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      57 | 🎯 Attach Persistent Storage to a Container              | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      58 | 🎯 Configure a Container to Start Automatically as a ... | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      59 | 🎯 Find and Retrieve Container Images From a Remote R... | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      60 | 🎯 Inspect Container Images                              | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      61 | 🎯 Manage Containers: Basic Operations                   | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      62 | 🎯 Manage Containers With Podman and Skopeo              | Anfänger        | Demnächst Verfügbar                                                                                                             |
-|      63 | 🎯 Run a Service Inside a Container                      | Anfänger        | Demnächst Verfügbar                                                                                                             |
+|   Index | Name                                                     | Schwierigkeit   | Übung                                                                                                                                    |
+|---------|----------------------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 🎯 Setuid-Dateien suchen                                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-locate-setuid-files-588259'>Challenge Starten</a>                            |
+|      02 | 🎯 Protokolle (Logs) und Archive verwalten               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-manage-logs-and-archives-588265'>Challenge Starten</a>                       |
+|      03 | 🎯 Anmelden und Benutzer wechseln                        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-log-in-and-switch-users-588260'>Challenge Starten</a>                        |
+|      04 | 🎯 Erstellen und Extrahieren von Tar-Archiven            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-create-and-extract-tar-archives-588239'>Challenge Starten</a>                |
+|      05 | 🎯 Festplattenverknüpfungen in Linux implementieren      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-implement-hard-links-in-linux-588253'>Challenge Starten</a>                  |
+|      06 | 🎯 Symbolische Links erstellen und manipulieren          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-create-and-manipulate-symbolic-links-588242'>Challenge Starten</a>           |
+|      07 | 🎯 Dateiberechtigungen verwalten                         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-manage-file-permissions-588264'>Challenge Starten</a>                        |
+|      08 | 🎯 Verarbeiten von Argumenten in Bash-Skripten           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-process-arguments-in-bash-scripts-588272'>Challenge Starten</a>              |
+|      09 | 🎯 Erstellen eines bedingten Shell-Skripts               | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/rhel-create-a-conditional-shell-script-588236'>Challenge Starten</a>                   |
+|      10 | 🎯 Shell-Skript mit Eingaben erstellen                   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-create-shell-script-with-inputs-588245'>Challenge Starten</a>                |
+|      11 | 🎯 Shell-Skripte erstellen: Verarbeitung der Befehlsa... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-create-shell-scripts-to-process-command-output-588246'>Challenge Starten</a> |
+|      12 | 🎯 Erstellen von Shell-Skripten mit Schleifen            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/rhel-create-shell-scripts-with-loops-588247'>Challenge Starten</a>                |
+|      13 | 🎯 Prozessplanung anpassen                               | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      14 | 🎯 Systemstart, Neustart und Herunterfahren              | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      15 | 🎯 Manuelles Booten von Linux-Systemen in verschieden... | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      16 | 🎯 Den Bootvorgang unterbrechen                          | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      17 | 🎯 Systemprotokolldateien finden und interpretieren      | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      18 | 🎯 Tuning-Profile verwalten                              | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      19 | 🎯 Systemjournale erhalten                               | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      20 | 🎯 Starten, Stoppen und Überprüfen des Status von Net... | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      21 | 🎯 Sichere Dateiübertragung zwischen Systemen            | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      22 | 🎯 Neue Partitionen und logische Volumes hinzufügen      | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      23 | 🎯 Physische Volumes zu Volumegruppen zuordnen           | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      24 | 🎯 Konfiguration von Dateisystemen per UUID oder Labe... | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      25 | 🎯 Erstellen und Löschen logischer Volumes               | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      26 | 🎯 Erstellen und Entfernen von physischen Volumes        | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      27 | 🎯 Partitionen auf MBR- und GPT-Datenträgern aufliste... | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      28 | 🎯 Autofs konfigurieren                                  | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      29 | 🎯 Erstellen und Konfigurieren von Dateisystemen         | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      30 | 🎯 Set-GID-Verzeichnisse für die Zusammenarbeit erste... | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      31 | 🎯 Diagnose und Korrektur von Datei-Berechtigungs-Pro... | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      32 | 🎯 Erweiterung bestehender logischer Volumes             | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      33 | 🎯 Mounten und Demontieren von Netzwerkdateisystemen ... | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      34 | 🎯 Linux-System automatisch auf ein bestimmtes Boot-Z... | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      35 | 🎯 Konfiguration von Zeitdienst-Clients                  | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      36 | 🎯 Installation und Aktualisierung von Softwarepakete... | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      37 | 🎯 Den System-Bootloader modifizieren                    | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      38 | 🎯 Aufgaben mit at und cron planen                       | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      39 | 🎯 Dienste starten und konfigurieren                     | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      40 | 🎯 Konfiguration der Hostnamenauflösung                  | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      41 | 🎯 Konfiguration von IPv4- und IPv6-Adressen             | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      42 | 🎯 Konfiguration von Netzwerkdiensten für den automat... | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      43 | 🎯 Einschränkung des Netzwerkzugriffs mit Firewall-CM... | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      44 | 🎯 Passwörter ändern und Passwortalterung für lokale ... | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      45 | 🎯 Konfiguration des Superuser-Zugriffs                  | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      46 | 🎯 Lokale Gruppen erstellen und verwalten                | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      47 | 🎯 Erstellen und Verwalten lokaler Benutzerkonten        | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      48 | 🎯 Firewall-Konfiguration mit firewall-cmd/firewalld     | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      49 | 🎯 Schlüsselbasierte SSH-Authentifizierung konfigurie... | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      50 | 🎯 Diagnose und Behebung von SELinux-Richtlinienverle... | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      51 | 🎯 SELinux-Dateien- und Prozesskontext identifizieren    | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      52 | 🎯 Standard-Dateiberechtigungen verwalten                | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      53 | 🎯 SELinux-Port-Labels verwalten                         | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      54 | 🎯 SELinux-Boolesche Einstellungen ändern                | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      55 | 🎯 Standard-Dateikontexte wiederherstellen               | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      56 | 🎯 SELinux-Modus setzen                                  | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      57 | 🎯 Persistenten Speicher an einen Container anfügen      | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      58 | 🎯 Konfiguration eines Containers zum automatischen S... | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      59 | 🎯 Container-Images aus einem Remote-Registry finden ... | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      60 | 🎯 Container-Images untersuchen                          | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      61 | 🎯 Container verwalten: Grundlegende Operationen         | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      62 | 🎯 Container mit Podman und Skopeo verwalten             | Anfänger        | Demnächst Verfügbar                                                                                                                      |
+|      63 | 🎯 Ausführen eines Dienstes in einem Container           | Anfänger        | Demnächst Verfügbar                                                                                                                      |
 
 ## Mehr
 
-- 🔗 [ Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [ Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [ Kostenlose Tutorials](https://github.com/labex-labs/linux-free-tutorials)
+- 🔗 [Red Hat Enterprise Linux Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Red Hat Enterprise Linux Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Red Hat Enterprise Linux Kostenlose Tutorials](https://github.com/labex-labs/rhel-free-tutorials)
 
