@@ -12,7 +12,7 @@ Este curso oferece exercícios práticos para preparar para o exame Red Hat Cert
 
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 ![RHCSA](https://img.shields.io/badge/RHCSA-whitesmoke?style=for-the-badge&logo=rhcsa)
-![Shell](https://img.shields.io/badge/Shell-whitesmoke?style=for-the-badge&logo=shell)
+![RHEL](https://img.shields.io/badge/RHEL-whitesmoke?style=for-the-badge&logo=rhel)
 
 
 ## Ambiente
@@ -25,81 +25,81 @@ LabEx é uma plataforma de aprendizagem interativa e prática dedicada à progra
 - Ambientes online interativos no navegador, com verificações automatizadas passo a passo.
 - Uma organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades.
 - Um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios.
-- O assistente de aprendizagem de IA Labby, construído sobre ChatGPT, fornecendo uma experiência de aprendizagem conversacional.
+- O assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
 
 Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
 ## Exercícios
 
-|   Índice | Nome                                                     | Dificuldade   | Prática                                                                                                                       |
-|----------|----------------------------------------------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 🎯 Localizar Arquivos Setuid                             | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-locate-setuid-files-416103'>Iniciar Desafio</a>                  |
-|       02 | 🎯 Gerenciar Logs e Arquivos                             | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-manage-logs-and-archives-416106'>Iniciar Desafio</a>             |
-|       03 | 🎯 Login e Alternar Usuários                             | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-log-in-and-switch-users-416104'>Iniciar Desafio</a>              |
-|       04 | 🎯 Criar e Extrair Arquivos Tar                          | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-create-and-extract-tar-archives-416100'>Iniciar Desafio</a>      |
-|       05 | 🎯 Implementar Links Rígidos no Linux                    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-implement-hard-links-in-linux-416102'>Iniciar Desafio</a>        |
-|       06 | 🎯 Criar e Manipular Links Simbólicos                    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-create-and-manipulate-symbolic-links-416101'>Iniciar Desafio</a> |
-|       07 | 🎯 Gerenciar Permissões de Arquivos                      | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-manage-file-permissions-416105'>Iniciar Desafio</a>              |
-|       08 | 🎯 Processar Argumentos em Scripts Bash                  | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-process-arguments-in-bash-scripts-416107'>Iniciar Desafio</a>    |
-|       09 | 🎯 Create a Conditional Shell Script                     | Iniciante     | Em Breve                                                                                                                      |
-|       10 | 🎯 Create Shell Script With Inputs                       | Iniciante     | Em Breve                                                                                                                      |
-|       11 | 🎯 Create Shell Scripts to Process Command Output        | Iniciante     | Em Breve                                                                                                                      |
-|       12 | 🎯 Create Shell Scripts With Loops                       | Iniciante     | Em Breve                                                                                                                      |
-|       13 | 🎯 Adjust Process Scheduling                             | Iniciante     | Em Breve                                                                                                                      |
-|       14 | 🎯 Boot, Reboot, and Shutdown a System                   | Iniciante     | Em Breve                                                                                                                      |
-|       15 | 🎯 Boot Systems Into Different Targets Manually          | Iniciante     | Em Breve                                                                                                                      |
-|       16 | 🎯 Interrupt the Boot Process                            | Iniciante     | Em Breve                                                                                                                      |
-|       17 | 🎯 Locate and Interpret System Log Files                 | Iniciante     | Em Breve                                                                                                                      |
-|       18 | 🎯 Manage Tuning Profiles                                | Iniciante     | Em Breve                                                                                                                      |
-|       19 | 🎯 Preserve System Journals                              | Iniciante     | Em Breve                                                                                                                      |
-|       20 | 🎯 Start, Stop, and Check the Status of Network Servi... | Iniciante     | Em Breve                                                                                                                      |
-|       21 | 🎯 Transfer Files Securely Between Systems               | Iniciante     | Em Breve                                                                                                                      |
-|       22 | 🎯 Add New Partitions and Logical Volumes                | Iniciante     | Em Breve                                                                                                                      |
-|       23 | 🎯 Assign Physical Volumes to Volume Groups              | Iniciante     | Em Breve                                                                                                                      |
-|       24 | 🎯 Configure File Systems by UUID or Label               | Iniciante     | Em Breve                                                                                                                      |
-|       25 | 🎯 Create and Delete Logical Volumes                     | Iniciante     | Em Breve                                                                                                                      |
-|       26 | 🎯 Create and Remove Physical Volumes                    | Iniciante     | Em Breve                                                                                                                      |
-|       27 | 🎯 List, Create, and Delete Partitions on MBR and GPT... | Iniciante     | Em Breve                                                                                                                      |
-|       28 | 🎯 Configure Autofs                                      | Iniciante     | Em Breve                                                                                                                      |
-|       29 | 🎯 Create and Configure File Systems                     | Iniciante     | Em Breve                                                                                                                      |
-|       30 | 🎯 Create Set-Gid Directories for Collaboration          | Iniciante     | Em Breve                                                                                                                      |
-|       31 | 🎯 Diagnose and Correct File Permission Problems         | Iniciante     | Em Breve                                                                                                                      |
-|       32 | 🎯 Extend Existing Logical Volumes                       | Iniciante     | Em Breve                                                                                                                      |
-|       33 | 🎯 Mount and Unmount Network File Systems Using NFS      | Iniciante     | Em Breve                                                                                                                      |
-|       34 | 🎯 Configure System to Boot Into a Specific Target Au... | Iniciante     | Em Breve                                                                                                                      |
-|       35 | 🎯 Configure Time Service Clients                        | Iniciante     | Em Breve                                                                                                                      |
-|       36 | 🎯 Install and Update Software Packages                  | Iniciante     | Em Breve                                                                                                                      |
-|       37 | 🎯 Modify the System Bootloader                          | Iniciante     | Em Breve                                                                                                                      |
-|       38 | 🎯 Schedule Tasks Using at and Cron                      | Iniciante     | Em Breve                                                                                                                      |
-|       39 | 🎯 Start and Configure Services                          | Iniciante     | Em Breve                                                                                                                      |
-|       40 | 🎯 Configure Hostname Resolution                         | Iniciante     | Em Breve                                                                                                                      |
-|       41 | 🎯 Configure IPv4 and IPv6 Addresses                     | Iniciante     | Em Breve                                                                                                                      |
-|       42 | 🎯 Configure Network Services to Start Automatically ... | Iniciante     | Em Breve                                                                                                                      |
-|       43 | 🎯 Restrict Network Access Using Firewall-CMD/Firewal... | Iniciante     | Em Breve                                                                                                                      |
-|       44 | 🎯 Change Passwords and Adjust Password Aging for Loc... | Iniciante     | Em Breve                                                                                                                      |
-|       45 | 🎯 Configure Superuser Access                            | Iniciante     | Em Breve                                                                                                                      |
-|       46 | 🎯 Create and Manage Local Groups                        | Iniciante     | Em Breve                                                                                                                      |
-|       47 | 🎯 Create and Manage Local User Accounts                 | Iniciante     | Em Breve                                                                                                                      |
-|       48 | 🎯 Configure Firewall Using Firewall-CMD/Firewalld       | Iniciante     | Em Breve                                                                                                                      |
-|       49 | 🎯 Configure Key-Based Authentication for SSH            | Iniciante     | Em Breve                                                                                                                      |
-|       50 | 🎯 Diagnose and Address SELinux Policy Violations        | Iniciante     | Em Breve                                                                                                                      |
-|       51 | 🎯 Identify SELinux File and Process Context             | Iniciante     | Em Breve                                                                                                                      |
-|       52 | 🎯 Manage Default File Permissions                       | Iniciante     | Em Breve                                                                                                                      |
-|       53 | 🎯 Manage SELinux Port Labels                            | Iniciante     | Em Breve                                                                                                                      |
-|       54 | 🎯 Modify SELinux Boolean Settings                       | Iniciante     | Em Breve                                                                                                                      |
-|       55 | 🎯 Restore Default File Contexts                         | Iniciante     | Em Breve                                                                                                                      |
-|       56 | 🎯 Set SELinux Mode                                      | Iniciante     | Em Breve                                                                                                                      |
-|       57 | 🎯 Attach Persistent Storage to a Container              | Iniciante     | Em Breve                                                                                                                      |
-|       58 | 🎯 Configure a Container to Start Automatically as a ... | Iniciante     | Em Breve                                                                                                                      |
-|       59 | 🎯 Find and Retrieve Container Images From a Remote R... | Iniciante     | Em Breve                                                                                                                      |
-|       60 | 🎯 Inspect Container Images                              | Iniciante     | Em Breve                                                                                                                      |
-|       61 | 🎯 Manage Containers: Basic Operations                   | Iniciante     | Em Breve                                                                                                                      |
-|       62 | 🎯 Manage Containers With Podman and Skopeo              | Iniciante     | Em Breve                                                                                                                      |
-|       63 | 🎯 Run a Service Inside a Container                      | Iniciante     | Em Breve                                                                                                                      |
+|   Índice | Nome                                                     | Dificuldade   | Prática                                                                                                                                |
+|----------|----------------------------------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 🎯 Localizar Arquivos Setuid                             | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/rhel-locate-setuid-files-588259'>Iniciar Desafio</a>                            |
+|       02 | 🎯 Gerenciar Logs e Arquivos                             | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/rhel-manage-logs-and-archives-588265'>Iniciar Desafio</a>                       |
+|       03 | 🎯 Login e Alternar Usuários                             | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/rhel-log-in-and-switch-users-588260'>Iniciar Desafio</a>                        |
+|       04 | 🎯 Criar e Extrair Arquivos Tar                          | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/rhel-create-and-extract-tar-archives-588239'>Iniciar Desafio</a>                |
+|       05 | 🎯 Implementar Links Rígidos no Linux                    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/rhel-implement-hard-links-in-linux-588253'>Iniciar Desafio</a>                  |
+|       06 | 🎯 Criar e Manipular Links Simbólicos                    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/rhel-create-and-manipulate-symbolic-links-588242'>Iniciar Desafio</a>           |
+|       07 | 🎯 Gerenciar Permissões de Arquivos                      | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/rhel-manage-file-permissions-588264'>Iniciar Desafio</a>                        |
+|       08 | 🎯 Processar Argumentos em Scripts Bash                  | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/rhel-process-arguments-in-bash-scripts-588272'>Iniciar Desafio</a>              |
+|       09 | 🎯 Criar um Script de Shell Condicional                  | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/rhel-create-a-conditional-shell-script-588236'>Iniciar Desafio</a>                   |
+|       10 | 🎯 Criar Script de Shell com Entradas                    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/rhel-create-shell-script-with-inputs-588245'>Iniciar Desafio</a>                |
+|       11 | 🎯 Criar Scripts de Shell para Processar a Saída de C... | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/rhel-create-shell-scripts-to-process-command-output-588246'>Iniciar Desafio</a> |
+|       12 | 🎯 Criar Scripts de Shell com Loops                      | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/rhel-create-shell-scripts-with-loops-588247'>Iniciar Desafio</a>                |
+|       13 | 🎯 Ajustar a Programação de Processos                    | Iniciante     | Em Breve                                                                                                                               |
+|       14 | 🎯 Inicialização, Reinicialização e Desligamento de u... | Iniciante     | Em Breve                                                                                                                               |
+|       15 | 🎯 Inicializar Sistemas Linux em Diferentes Alvos Man... | Iniciante     | Em Breve                                                                                                                               |
+|       16 | 🎯 Interromper o Processo de Inicialização               | Iniciante     | Em Breve                                                                                                                               |
+|       17 | 🎯 Localizar e Interpretar Arquivos de Log do Sistema    | Iniciante     | Em Breve                                                                                                                               |
+|       18 | 🎯 Gerenciar Perfis de Ajuste                            | Iniciante     | Em Breve                                                                                                                               |
+|       19 | 🎯 Preservar Registros do Sistema                        | Iniciante     | Em Breve                                                                                                                               |
+|       20 | 🎯 Iniciar, Parar e Verificar o Status de Serviços de... | Iniciante     | Em Breve                                                                                                                               |
+|       21 | 🎯 Transferência Segura de Arquivos Entre Sistemas       | Iniciante     | Em Breve                                                                                                                               |
+|       22 | 🎯 Adicionar Novas Partições e Volumes Lógicos           | Iniciante     | Em Breve                                                                                                                               |
+|       23 | 🎯 Atribuir Volumes Físicos a Grupos de Volumes          | Iniciante     | Em Breve                                                                                                                               |
+|       24 | 🎯 Configurar Sistemas de Arquivos por UUID ou Rótulo    | Iniciante     | Em Breve                                                                                                                               |
+|       25 | 🎯 Criar e Excluir Volumes Lógicos                       | Iniciante     | Em Breve                                                                                                                               |
+|       26 | 🎯 Criar e Remover Volumes Físicos                       | Iniciante     | Em Breve                                                                                                                               |
+|       27 | 🎯 Listar, Criar e Excluir Partições em Discos MBR e ... | Iniciante     | Em Breve                                                                                                                               |
+|       28 | 🎯 Configurar o Autofs                                   | Iniciante     | Em Breve                                                                                                                               |
+|       29 | 🎯 Criar e Configurar Sistemas de Arquivos               | Iniciante     | Em Breve                                                                                                                               |
+|       30 | 🎯 Criar Diretórios Set-GID para Colaboração             | Iniciante     | Em Breve                                                                                                                               |
+|       31 | 🎯 Diagnosticar e Corrigir Problemas de Permissão de ... | Iniciante     | Em Breve                                                                                                                               |
+|       32 | 🎯 Estender Volumes Lógicos Existentes                   | Iniciante     | Em Breve                                                                                                                               |
+|       33 | 🎯 Montar e Desmontar Sistemas de Arquivos de Rede Us... | Iniciante     | Em Breve                                                                                                                               |
+|       34 | 🎯 Configurar o Sistema para Inicializar em um Alvo E... | Iniciante     | Em Breve                                                                                                                               |
+|       35 | 🎯 Configurar Clientes de Serviço de Horário             | Iniciante     | Em Breve                                                                                                                               |
+|       36 | 🎯 Instalar e Atualizar Pacotes de Software              | Iniciante     | Em Breve                                                                                                                               |
+|       37 | 🎯 Modificar o Bootloader do Sistema                     | Iniciante     | Em Breve                                                                                                                               |
+|       38 | 🎯 Agendar Tarefas Usando at e Cron                      | Iniciante     | Em Breve                                                                                                                               |
+|       39 | 🎯 Iniciar e Configurar Serviços                         | Iniciante     | Em Breve                                                                                                                               |
+|       40 | 🎯 Configurar Resolução de Nomes de Host                 | Iniciante     | Em Breve                                                                                                                               |
+|       41 | 🎯 Configurar Endereços IPv4 e IPv6                      | Iniciante     | Em Breve                                                                                                                               |
+|       42 | 🎯 Configurar Serviços de Rede para Iniciar Automatic... | Iniciante     | Em Breve                                                                                                                               |
+|       43 | 🎯 Restringir Acesso à Rede Usando firewall-cmd/firew... | Iniciante     | Em Breve                                                                                                                               |
+|       44 | 🎯 Alterar Senhas e Ajustar o Envelhecimento de Senha... | Iniciante     | Em Breve                                                                                                                               |
+|       45 | 🎯 Configurar Acesso de Superusuário                     | Iniciante     | Em Breve                                                                                                                               |
+|       46 | 🎯 Criar e Gerenciar Grupos Locais                       | Iniciante     | Em Breve                                                                                                                               |
+|       47 | 🎯 Criar e Gerir Contas de Utilizador Locais             | Iniciante     | Em Breve                                                                                                                               |
+|       48 | 🎯 Configurar Firewall Usando firewall-cmd/firewalld     | Iniciante     | Em Breve                                                                                                                               |
+|       49 | 🎯 Configurar Autenticação Baseada em Chave para SSH     | Iniciante     | Em Breve                                                                                                                               |
+|       50 | 🎯 Diagnosticar e Corrigir Violações de Política SELi... | Iniciante     | Em Breve                                                                                                                               |
+|       51 | 🎯 Identificar o Contexto de Arquivo e Processo SELin... | Iniciante     | Em Breve                                                                                                                               |
+|       52 | 🎯 Gerenciar Permissões Padrão de Arquivos               | Iniciante     | Em Breve                                                                                                                               |
+|       53 | 🎯 Gerenciar Rótulos de Porta SELinux                    | Iniciante     | Em Breve                                                                                                                               |
+|       54 | 🎯 Modificar Configurações Booleanas do SELinux          | Iniciante     | Em Breve                                                                                                                               |
+|       55 | 🎯 Restaurar Contextos de Arquivo Padrão                 | Iniciante     | Em Breve                                                                                                                               |
+|       56 | 🎯 Definir Modo SELinux                                  | Iniciante     | Em Breve                                                                                                                               |
+|       57 | 🎯 Anexar Armazenamento Persistente a um Contêiner       | Iniciante     | Em Breve                                                                                                                               |
+|       58 | 🎯 Configurar um Contêiner para Iniciar Automaticamen... | Iniciante     | Em Breve                                                                                                                               |
+|       59 | 🎯 Encontrar e Recuperar Imagens de Contêiner de um R... | Iniciante     | Em Breve                                                                                                                               |
+|       60 | 🎯 Inspecionar Imagens de Contêiner                      | Iniciante     | Em Breve                                                                                                                               |
+|       61 | 🎯 Gerenciar Contêineres: Operações Básicas              | Iniciante     | Em Breve                                                                                                                               |
+|       62 | 🎯 Gerenciar Contêineres com Podman e Skopeo             | Iniciante     | Em Breve                                                                                                                               |
+|       63 | 🎯 Executar um Serviço Dentro de um Container            | Iniciante     | Em Breve                                                                                                                               |
 
 ## Mais
 
-- 🔗 [ Cursos de Programação](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [ Projetos de Programação](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [ Tutoriais Gratuitos](https://github.com/labex-labs/linux-free-tutorials)
+- 🔗 [Red Hat Enterprise Linux Cursos de Programação](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Red Hat Enterprise Linux Projetos de Programação](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Red Hat Enterprise Linux Tutoriais Gratuitos](https://github.com/labex-labs/rhel-free-tutorials)
 
