@@ -12,7 +12,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 ![RHCSA](https://img.shields.io/badge/RHCSA-whitesmoke?style=for-the-badge&logo=rhcsa)
-![Shell](https://img.shields.io/badge/Shell-whitesmoke?style=for-the-badge&logo=shell)
+![RHEL](https://img.shields.io/badge/RHEL-whitesmoke?style=for-the-badge&logo=rhel)
 
 
 ## 環境
@@ -25,81 +25,81 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 - ブラウザ内のインタラクティブなオンライン環境で、自動化されたステップバイステップのチェック機能。
 - スキルツリーベースのシステムによる構造化されたコンテンツ組織。
 - 30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソース。
-- ChatGPT を基盤とした AI 学習アシスタント Labby による対話型学習体験。
+- 最新の AI モデルを基盤とした学習アシスタント Labby による対話型学習体験。
 
 詳細について [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
 ## 演習
 
-|   インデックス | 名前                                                     | 難易度   | 練習                                                                                                                           |
-|----------------|----------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 🎯 Setuid ファイルを検索する                             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-locate-setuid-files-416103'>チャレンジを開始</a>                  |
-|             02 | 🎯 ログとアーカイブの管理                                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-manage-logs-and-archives-416106'>チャレンジを開始</a>             |
-|             03 | 🎯 ログインとユーザーの切り替え                          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-log-in-and-switch-users-416104'>チャレンジを開始</a>              |
-|             04 | 🎯 Tar アーカイブの作成と展開                            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-create-and-extract-tar-archives-416100'>チャレンジを開始</a>      |
-|             05 | 🎯 Linux でハードリンクを実装する                        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-implement-hard-links-in-linux-416102'>チャレンジを開始</a>        |
-|             06 | 🎯 シンボリックリンクの作成と操作                        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-create-and-manipulate-symbolic-links-416101'>チャレンジを開始</a> |
-|             07 | 🎯 ファイルパーミッションの管理                          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-manage-file-permissions-416105'>チャレンジを開始</a>              |
-|             08 | 🎯 Bash スクリプトでコマンドライン引数を処理する         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-process-arguments-in-bash-scripts-416107'>チャレンジを開始</a>    |
-|             09 | 🎯 Create a Conditional Shell Script                     | 初級     | 近日公開                                                                                                                       |
-|             10 | 🎯 Create Shell Script With Inputs                       | 初級     | 近日公開                                                                                                                       |
-|             11 | 🎯 Create Shell Scripts to Process Command Output        | 初級     | 近日公開                                                                                                                       |
-|             12 | 🎯 Create Shell Scripts With Loops                       | 初級     | 近日公開                                                                                                                       |
-|             13 | 🎯 Adjust Process Scheduling                             | 初級     | 近日公開                                                                                                                       |
-|             14 | 🎯 Boot, Reboot, and Shutdown a System                   | 初級     | 近日公開                                                                                                                       |
-|             15 | 🎯 Boot Systems Into Different Targets Manually          | 初級     | 近日公開                                                                                                                       |
-|             16 | 🎯 Interrupt the Boot Process                            | 初級     | 近日公開                                                                                                                       |
-|             17 | 🎯 Locate and Interpret System Log Files                 | 初級     | 近日公開                                                                                                                       |
-|             18 | 🎯 Manage Tuning Profiles                                | 初級     | 近日公開                                                                                                                       |
-|             19 | 🎯 Preserve System Journals                              | 初級     | 近日公開                                                                                                                       |
-|             20 | 🎯 Start, Stop, and Check the Status of Network Servi... | 初級     | 近日公開                                                                                                                       |
-|             21 | 🎯 Transfer Files Securely Between Systems               | 初級     | 近日公開                                                                                                                       |
-|             22 | 🎯 Add New Partitions and Logical Volumes                | 初級     | 近日公開                                                                                                                       |
-|             23 | 🎯 Assign Physical Volumes to Volume Groups              | 初級     | 近日公開                                                                                                                       |
-|             24 | 🎯 Configure File Systems by UUID or Label               | 初級     | 近日公開                                                                                                                       |
-|             25 | 🎯 Create and Delete Logical Volumes                     | 初級     | 近日公開                                                                                                                       |
-|             26 | 🎯 Create and Remove Physical Volumes                    | 初級     | 近日公開                                                                                                                       |
-|             27 | 🎯 List, Create, and Delete Partitions on MBR and GPT... | 初級     | 近日公開                                                                                                                       |
-|             28 | 🎯 Configure Autofs                                      | 初級     | 近日公開                                                                                                                       |
-|             29 | 🎯 Create and Configure File Systems                     | 初級     | 近日公開                                                                                                                       |
-|             30 | 🎯 Create Set-Gid Directories for Collaboration          | 初級     | 近日公開                                                                                                                       |
-|             31 | 🎯 Diagnose and Correct File Permission Problems         | 初級     | 近日公開                                                                                                                       |
-|             32 | 🎯 Extend Existing Logical Volumes                       | 初級     | 近日公開                                                                                                                       |
-|             33 | 🎯 Mount and Unmount Network File Systems Using NFS      | 初級     | 近日公開                                                                                                                       |
-|             34 | 🎯 Configure System to Boot Into a Specific Target Au... | 初級     | 近日公開                                                                                                                       |
-|             35 | 🎯 Configure Time Service Clients                        | 初級     | 近日公開                                                                                                                       |
-|             36 | 🎯 Install and Update Software Packages                  | 初級     | 近日公開                                                                                                                       |
-|             37 | 🎯 Modify the System Bootloader                          | 初級     | 近日公開                                                                                                                       |
-|             38 | 🎯 Schedule Tasks Using at and Cron                      | 初級     | 近日公開                                                                                                                       |
-|             39 | 🎯 Start and Configure Services                          | 初級     | 近日公開                                                                                                                       |
-|             40 | 🎯 Configure Hostname Resolution                         | 初級     | 近日公開                                                                                                                       |
-|             41 | 🎯 Configure IPv4 and IPv6 Addresses                     | 初級     | 近日公開                                                                                                                       |
-|             42 | 🎯 Configure Network Services to Start Automatically ... | 初級     | 近日公開                                                                                                                       |
-|             43 | 🎯 Restrict Network Access Using Firewall-CMD/Firewal... | 初級     | 近日公開                                                                                                                       |
-|             44 | 🎯 Change Passwords and Adjust Password Aging for Loc... | 初級     | 近日公開                                                                                                                       |
-|             45 | 🎯 Configure Superuser Access                            | 初級     | 近日公開                                                                                                                       |
-|             46 | 🎯 Create and Manage Local Groups                        | 初級     | 近日公開                                                                                                                       |
-|             47 | 🎯 Create and Manage Local User Accounts                 | 初級     | 近日公開                                                                                                                       |
-|             48 | 🎯 Configure Firewall Using Firewall-CMD/Firewalld       | 初級     | 近日公開                                                                                                                       |
-|             49 | 🎯 Configure Key-Based Authentication for SSH            | 初級     | 近日公開                                                                                                                       |
-|             50 | 🎯 Diagnose and Address SELinux Policy Violations        | 初級     | 近日公開                                                                                                                       |
-|             51 | 🎯 Identify SELinux File and Process Context             | 初級     | 近日公開                                                                                                                       |
-|             52 | 🎯 Manage Default File Permissions                       | 初級     | 近日公開                                                                                                                       |
-|             53 | 🎯 Manage SELinux Port Labels                            | 初級     | 近日公開                                                                                                                       |
-|             54 | 🎯 Modify SELinux Boolean Settings                       | 初級     | 近日公開                                                                                                                       |
-|             55 | 🎯 Restore Default File Contexts                         | 初級     | 近日公開                                                                                                                       |
-|             56 | 🎯 Set SELinux Mode                                      | 初級     | 近日公開                                                                                                                       |
-|             57 | 🎯 Attach Persistent Storage to a Container              | 初級     | 近日公開                                                                                                                       |
-|             58 | 🎯 Configure a Container to Start Automatically as a ... | 初級     | 近日公開                                                                                                                       |
-|             59 | 🎯 Find and Retrieve Container Images From a Remote R... | 初級     | 近日公開                                                                                                                       |
-|             60 | 🎯 Inspect Container Images                              | 初級     | 近日公開                                                                                                                       |
-|             61 | 🎯 Manage Containers: Basic Operations                   | 初級     | 近日公開                                                                                                                       |
-|             62 | 🎯 Manage Containers With Podman and Skopeo              | 初級     | 近日公開                                                                                                                       |
-|             63 | 🎯 Run a Service Inside a Container                      | 初級     | 近日公開                                                                                                                       |
+|   インデックス | 名前                                                                              | 難易度   | 練習                                                                                                                                    |
+|----------------|-----------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------|
+|             01 | 🎯 Setuid ファイルを検索する                                                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-locate-setuid-files-588259'>チャレンジを開始</a>                            |
+|             02 | 🎯 ログとアーカイブの管理                                                         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-manage-logs-and-archives-588265'>チャレンジを開始</a>                       |
+|             03 | 🎯 ログインとユーザーの切り替え                                                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-log-in-and-switch-users-588260'>チャレンジを開始</a>                        |
+|             04 | 🎯 Tar アーカイブの作成と展開                                                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-create-and-extract-tar-archives-588239'>チャレンジを開始</a>                |
+|             05 | 🎯 Linux でハードリンクを実装する                                                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-implement-hard-links-in-linux-588253'>チャレンジを開始</a>                  |
+|             06 | 🎯 シンボリックリンクの作成と操作                                                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-create-and-manipulate-symbolic-links-588242'>チャレンジを開始</a>           |
+|             07 | 🎯 ファイルパーミッションの管理                                                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-manage-file-permissions-588264'>チャレンジを開始</a>                        |
+|             08 | 🎯 Bash スクリプトでコマンドライン引数を処理する                                  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-process-arguments-in-bash-scripts-588272'>チャレンジを開始</a>              |
+|             09 | 🎯 条件付きシェルスクリプトの作成                                                 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/rhel-create-a-conditional-shell-script-588236'>チャレンジを開始</a>                   |
+|             10 | 🎯 入力付きシェルスクリプトの作成                                                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-create-shell-script-with-inputs-588245'>チャレンジを開始</a>                |
+|             11 | 🎯 コマンド出力を処理するシェルスクリプトの作成                                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-create-shell-scripts-to-process-command-output-588246'>チャレンジを開始</a> |
+|             12 | 🎯 ループを使ったシェルスクリプトの作成                                           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/rhel-create-shell-scripts-with-loops-588247'>チャレンジを開始</a>                |
+|             13 | 🎯 プロセスのスケジューリング調整                                                 | 初級     | 近日公開                                                                                                                                |
+|             14 | 🎯 Linux システムの起動、再起動、シャットダウン                                   | 初級     | 近日公開                                                                                                                                |
+|             15 | 🎯 Linux システムを手動で異なるターゲットにブートする                             | 初級     | 近日公開                                                                                                                                |
+|             16 | 🎯 Linux システムのブートプロセスを中断する                                       | 初級     | 近日公開                                                                                                                                |
+|             17 | 🎯 Linux システムログファイルの場所特定と解釈                                     | 初級     | 近日公開                                                                                                                                |
+|             18 | 🎯 チューニングプロファイルの管理                                                 | 初級     | 近日公開                                                                                                                                |
+|             19 | 🎯 システムジャーナルの保持                                                       | 初級     | 近日公開                                                                                                                                |
+|             20 | 🎯 ネットワークサービスの起動、停止、ステータス確認                               | 初級     | 近日公開                                                                                                                                |
+|             21 | 🎯 システム間でファイルを安全に転送する                                           | 初級     | 近日公開                                                                                                                                |
+|             22 | 🎯 Linux システムに新しいパーティションと論理ボリュームを追加する                 | 初級     | 近日公開                                                                                                                                |
+|             23 | 🎯 物理ボリュームをボリュームグループに割り当てる                                 | 初級     | 近日公開                                                                                                                                |
+|             24 | 🎯 UUID またはラベルによるファイルシステム設定                                    | 初級     | 近日公開                                                                                                                                |
+|             25 | 🎯 論理ボリュームの作成と削除                                                     | 初級     | 近日公開                                                                                                                                |
+|             26 | 🎯 物理ボリュームの作成と削除                                                     | 初級     | 近日公開                                                                                                                                |
+|             27 | 🎯 MBR ディスクと GPT ディスクのパーティションのリスト表示、作成、削除            | 初級     | 近日公開                                                                                                                                |
+|             28 | 🎯 Autofs の設定                                                                  | 初級     | 近日公開                                                                                                                                |
+|             29 | 🎯 ファイルシステムの作成と設定                                                   | 初級     | 近日公開                                                                                                                                |
+|             30 | 🎯 コラボレーションのためのセット GID ディレクトリを作成する                      | 初級     | 近日公開                                                                                                                                |
+|             31 | 🎯 Linux システムにおけるファイルパーミッションの問題の診断と修正                 | 初級     | 近日公開                                                                                                                                |
+|             32 | 🎯 既存の論理ボリュームを拡張する                                                 | 初級     | 近日公開                                                                                                                                |
+|             33 | 🎯 NFS を使用したネットワークファイルシステムのマウントとアンマウント             | 初級     | 近日公開                                                                                                                                |
+|             34 | 🎯 特定のターゲットに自動的にブートするシステムの設定                             | 初級     | 近日公開                                                                                                                                |
+|             35 | 🎯 Linux システムの時刻サービスクライアント設定                                   | 初級     | 近日公開                                                                                                                                |
+|             36 | 🎯 ソフトウェアパッケージのインストールとアップデート                             | 初級     | 近日公開                                                                                                                                |
+|             37 | 🎯 システムブートローダーの変更                                                   | 初級     | 近日公開                                                                                                                                |
+|             38 | 🎯 at コマンドと cron コマンドを使ってタスクをスケジュールする                    | 初級     | 近日公開                                                                                                                                |
+|             39 | 🎯 サービスの起動と設定                                                           | 初級     | 近日公開                                                                                                                                |
+|             40 | 🎯 ホスト名解決の設定                                                             | 初級     | 近日公開                                                                                                                                |
+|             41 | 🎯 IPv4 と IPv6 アドレスの設定                                                    | 初級     | 近日公開                                                                                                                                |
+|             42 | 🎯 起動時に自動でネットワークサービスを構成する                                   | 初級     | 近日公開                                                                                                                                |
+|             43 | 🎯 ファイアウォール (firewall-cmd/firewall) を使用したネットワークアクセスの制... | 初級     | 近日公開                                                                                                                                |
+|             44 | 🎯 ローカルユーザーアカウントのパスワード変更とパスワード有効期限の調整           | 初級     | 近日公開                                                                                                                                |
+|             45 | 🎯 スーパーユーザーアクセスの設定                                                 | 初級     | 近日公開                                                                                                                                |
+|             46 | 🎯 ローカルグループの作成と管理                                                   | 初級     | 近日公開                                                                                                                                |
+|             47 | 🎯 Linux システムでローカルユーザーアカウントを作成および管理する                 | 初級     | 近日公開                                                                                                                                |
+|             48 | 🎯 Firewall-CMD/Firewalld を使用したファイアウォールの設定                        | 初級     | 近日公開                                                                                                                                |
+|             49 | 🎯 SSH の鍵ベース認証を設定する                                                   | 初級     | 近日公開                                                                                                                                |
+|             50 | 🎯 SELinux ポリシー違反の診断と対処                                               | 初級     | 近日公開                                                                                                                                |
+|             51 | 🎯 SELinux ファイルおよびプロセスコンテキストの識別                               | 初級     | 近日公開                                                                                                                                |
+|             52 | 🎯 Linux システムにおけるデフォルトファイルパーミッションの管理                   | 初級     | 近日公開                                                                                                                                |
+|             53 | 🎯 SELinux ポートラベルの管理                                                     | 初級     | 近日公開                                                                                                                                |
+|             54 | 🎯 SELinux ブール設定の変更                                                       | 初級     | 近日公開                                                                                                                                |
+|             55 | 🎯 デフォルトのファイルコンテキストの復元                                         | 初級     | 近日公開                                                                                                                                |
+|             56 | 🎯 SELinux モードの設定                                                           | 初級     | 近日公開                                                                                                                                |
+|             57 | 🎯 コンテナに永続ストレージを接続する                                             | 初級     | 近日公開                                                                                                                                |
+|             58 | 🎯 systemd サービスとしてコンテナを自動起動するように設定する                     | 初級     | 近日公開                                                                                                                                |
+|             59 | 🎯 リモートレジストリからコンテナイメージを検索・取得する方法                     | 初級     | 近日公開                                                                                                                                |
+|             60 | 🎯 コンテナイメージの検査                                                         | 初級     | 近日公開                                                                                                                                |
+|             61 | 🎯 コンテナの管理：基本操作                                                       | 初級     | 近日公開                                                                                                                                |
+|             62 | 🎯 Podman と Skopeo でコンテナを管理する                                          | 初級     | 近日公開                                                                                                                                |
+|             63 | 🎯 コンテナ内でサービスの実行                                                     | 初級     | 近日公開                                                                                                                                |
 
 ## その他
 
-- 🔗 [ プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [ プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [ 無料チュートリアル](https://github.com/labex-labs/linux-free-tutorials)
+- 🔗 [Red Hat Enterprise Linux プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Red Hat Enterprise Linux プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Red Hat Enterprise Linux 無料チュートリアル](https://github.com/labex-labs/rhel-free-tutorials)
 
