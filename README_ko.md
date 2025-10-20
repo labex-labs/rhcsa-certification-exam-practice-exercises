@@ -79,19 +79,9 @@
 |       57 | 🎯  컨테이너에 영구 스토리지 연결하기                          | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-attach-persistent-storage-to-a-container-588221'>도전 시작</a>                                      |
 |       58 | 🎯  Podman 컨테이너를 systemd 사용자 서비스로 자동 시작 구성   | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-configure-a-podman-container-to-start-automatically-as-a-systemd-user-service-588225'>도전 시작</a> |
 
-## 환경
+## LabEx 소개
 
-LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- 비디오 없는 독점적인 실습 실험실로 엄격한 "실습을 통한 학습" 접근 방식.
-- 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인.
-- 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성.
-- 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스.
-- 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 제공하는 대화형 학습 경험.
-
-자세히 알아보기 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, LabEx 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
 
 ## 더 보기
 
